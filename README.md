@@ -1,2 +1,5 @@
 # ClickerGame
-![](https://github.com/batman22827/ClickerGame/gif.gif)
+
+
+#My GIF
+![](https://github.com/batman22827/gif.gif)
