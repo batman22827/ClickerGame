@@ -1,6 +1,6 @@
-# Pygame шаблон - скелет для нового проекта Pygame
 import pygame
-import random,sys
+import random
+import sys
 from pygame.color import THECOLORS
 
 WIDTH = 800
